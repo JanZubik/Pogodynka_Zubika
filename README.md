@@ -1,5 +1,5 @@
 # Eksperymenty dotyczące przewidywania zjawisk pogodowych
-Poniższe eksperymenty są rozwijane i oparte są na Sklearn. 
+Poniższe eksperymenty są rozwijane i opierają się na bibliotece Sklearn. 
 
 ## 1. Przygotowanie potrzebnych funkcji
 - trenujące, walidacja krzyżowa, badające czas uczenia itp.
